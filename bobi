@@ -1,0 +1,17 @@
+{
+  "address": "TNv62urty3nJaWkzEEQcrvwubhiMzAfKAY",
+  "symbol": "BOBI",
+  "name": "$BOBI - People Power",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/kakandefred/bobi-token-site/main/photo_2025-07-30_05-40-50.jpg",
+  "homepage": "https://kakandefred.github.io/bobi-token-site/",
+  "MarketCapLink": "https://coinmarketcap.com/currencies/bobi-token/",
+  "existingMarkets": [
+    {
+      "source": "TVC DEX",
+      "pairs": [
+        "BOBI/USDT"
+      ]
+    }
+  ]
+}
